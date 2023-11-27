@@ -1,7 +1,16 @@
-.espaço{
-    padding-top: 15px;
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+.imagem{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    max-width: 130px;
+    margin:0 auto;
+}
 
 
 
